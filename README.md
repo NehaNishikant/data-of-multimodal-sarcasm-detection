@@ -1,3 +1,18 @@
+
+go to codes/ and follow the instructions there.
+you can use img\_vector.py to create the img embeddings specified in those instructions.
+
+then run codes/main.py. You'll need python2 
+
+Ignore the .sh files because those are specific to our file trees/environment
+
+Run data\_utils.py to get error analysis files.
+
+Note MsdBERT.csv is created from asam01/Sarcasm-MsdBERT
+
+---
+pre-fork
+
 # data-of-multimodal-sarcasm-detection
 
 ## image link
